@@ -1,0 +1,7 @@
+{
+  "name": "Peter Lindbergh: The Master of Realism",
+  "description": "An immersive educational exploration of Peter Lindbergh's photographic processes, philosophy, and digital workflow, powered by Gemini AI with search and maps grounding.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
